@@ -1,5 +1,5 @@
 # Resume
-My personal resume on resume
+My personal resume on Azure
 
 
 ## Built using Azure services
